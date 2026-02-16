@@ -48,11 +48,11 @@ Median Session Duration: \~9 minutes
 ## 📈 Key Insights (Python Analysis)
 
 ### 🔹 Volume Growth Over Time
-![Videos per Year](images/Videos per Year.png)
+![Videos per Year](images/Videos per Year.png) \
 Clear acceleration in consumption post-2019, peaking in 2025.
 
 ### 🔹 Monthly Usage Trend
-![Monthly Usages](images/Monthly Usages.png)
+![Monthly Usages](images/Monthly Usages.png) \
 Seasonal spikes aligned with professional transitions and academic
 cycles.
 
