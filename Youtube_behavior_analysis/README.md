@@ -136,6 +136,6 @@ analytics thinking - Data-driven monetization strategy design
 ## 👤 Author
 **Kaushlendra Kumar Verma**  
 MS in Business Analytics  
-Aspiring Data / Business Analyst
+Aspiring Data / Business Analyst \
 www.linkedin.com/in/kaushlendra-kumar-verma  
 
