@@ -57,15 +57,15 @@ Seasonal spikes aligned with professional transitions and academic
 cycles.
 
 ### 🔹 Hourly Viewing Pattern
-![Hourly Pattern](images/Hourly_Pattern.png)
+![Hourly Pattern](images/Hourly_Pattern.png) \
 Strong late-evening behavioral cluster, consistent across timezones.
 
 ### 🔹 Weekend vs Weekday Behavior
-![Weekday distribution](images/Weekday_distribution.png)
+![Weekday distribution](images/Weekday_distribution.png) \
 Higher intensity and longer sessions during weekends.
 
 ### 🔹 Channel Concentration
-![top 15 channels](images/top_15_channels.png)
+![top 15 channels](images/top_15_channels.png) \
 More inclined toward stock market and politics related contents.
 
 ------------------------------------------------------------------------
